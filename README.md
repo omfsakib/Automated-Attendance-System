@@ -55,7 +55,7 @@ The file for data augmentation will be uploaded soon.
 To know more about the working of the software, refer to our paper.
 ## Research Paper
 The implementation is based on the following paper:
-https://ieeexplore.ieee.org/document/9029001
+https://drive.google.com/file/d/1wE0Ur6zPTxGVwdEEXMAOBIm-8IOsITGB/view?usp=sharing
 
 
 # Download pre-trained model:
